@@ -1,3 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="subramanyamahindrakar87-ai's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
+
+
 # 👋 Hi, I'm Subramanya
 
 🎓 **BCA @ AITM** | 💻 **Full-Stack Web Developer** | 🎨 **UI/UX Enthusiast**
