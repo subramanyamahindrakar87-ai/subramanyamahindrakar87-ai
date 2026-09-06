@@ -1,5 +1,31 @@
-# 💫 About Me:
-BCA @ AITM | Building High-Converting Websites & Web Apps for Businesses | <br>Open for Developer Projects | Canva Designer, Video Editor| Social Media Handler | <br>| Branding &  Python Full Stack Developer| UI/UX Enthusiast
+# 👋 Hi, I'm Subramanya
+
+🎓 **BCA @ AITM** | 💻 **Full-Stack Web Developer** | 🎨 **UI/UX Enthusiast**
+
+I’m a passionate developer focused on building **high-converting websites and modern web applications for businesses**. I enjoy combining technology, design, and creativity to turn ideas into practical digital experiences.
+
+### 🚀 What I Do
+
+* 💻 Python Full-Stack Development
+* 🌐 Responsive Websites & Web Applications
+* 🎨 UI/UX Design & Canva Design
+* 🎬 Video Editing & Creative Content
+* 📱 Social Media Management
+* 🏷️ Branding & Digital Design
+* 🔧 Backend & API Development
+
+### 🛠️ Technologies & Tools
+
+**Python • HTML • CSS • JavaScript • SQL • Git • GitHub • Canva • CapCut • VS Code**
+
+### 🎯 Currently
+
+* Building real-world web projects
+* Improving my full-stack development skills
+* Exploring modern UI/UX and AI-powered tools
+* Open to **developer projects, collaborations, and internships**
+
+> **Build. Create. Learn. Improve. 🚀**
 
 
 ## 🌐 Socials:
