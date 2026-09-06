@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="subramanyamahindrakar87-ai's GitHub profile" src="dark_mode.svg" />
-</picture>
 
 
 
@@ -47,11 +42,5 @@ I’m a passionate developer focused on building **high-converting websites and 
 ![](https://streak-stats.demolab.com/?user=subramanyamahindrakar87-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=subramanyamahindrakar87-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=subramanyamahindrakar87-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="subramanyamahindrakar87-ai's GitHub profile" src="dark_mode.svg" />
-</picture>
+
